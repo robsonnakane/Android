@@ -1,8 +1,6 @@
 # Android
-Install LineageOS on
-Motorola one fusion+
+Install LineageOS on Motorola one fusion+
 liber
-warning
 Warning: The provided instructions are for LineageOS 19.1. These will only work if you follow every section and step precisely.
 Do not continue after something fails!
 Basic requirements
